@@ -7,6 +7,7 @@ Fullstack Developer | Buenos Aires, Argentina
 ## Current Projects
 
 ### Web Development
+- 🌳 **[linktree-clone](https://github.com/nvxn/notkpc-links)** — Clon de Linktree minimalista y estético desarrollado con Next.js, TypeScript y Shadcn UI.
 - 🔗 **[shorten](https://github.com/nvxn/shorten)** — Acortador de enlaces desarrollado en TypeScript.
 - 🛒 **[tech-store](https://github.com/nvxn/tech-store)** — Simulación de un flujo completo de e-commerce.
 
