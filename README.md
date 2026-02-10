@@ -2,9 +2,14 @@
 
 Fullstack Developer | Buenos Aires, Argentina
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ## Current Projects
+
+### Minecraft Mods (Forge 1.20.1)
+- 🌀 **[welcome-jump](https://github.com/nvxn/welcome-jump)** — Ejecuta efectos de desorientación y física (Knockback vertical) sobre todos los jugadores al detectar un login.
+- 🐮 **[vegan-revenge](https://github.com/nvxn/vegan-revenge)** — Los animales pasivos tienen la oportunidad de convertirse en monstruos al morir. ¡El karma devuelve el golpe!
+- 🤡 **[not-clown](https://github.com/nvxn/not-clown)** — Mod de terror psicológico.
 
 ### Web Development
 - 🌳 **[linktree-clone](https://github.com/nvxn/notkpc-links)** — Clon de Linktree minimalista y estético desarrollado con Next.js, TypeScript y Shadcn UI.
