@@ -12,6 +12,7 @@ Fullstack Developer | Buenos Aires, Argentina
 - 🤡 **[not-clown](https://github.com/nvxn/not-clown)** — Mod de terror psicológico.
 
 ### Web Development
+- 🌐 **[portfolio](https://github.com/nvxn/portfolio)** — Mi sitio web personal donde centralizo mis proyectos y experiencia profesional.
 - 🌳 **[linktree-clone](https://github.com/nvxn/notkpc-links)** — Clon de Linktree minimalista y estético desarrollado con Next.js, TypeScript y Shadcn UI.
 - 🔗 **[shorten](https://github.com/nvxn/shorten)** — Acortador de enlaces desarrollado en TypeScript.
 - 🛒 **[tech-store](https://github.com/nvxn/tech-store)** — Simulación de un flujo completo de e-commerce.
